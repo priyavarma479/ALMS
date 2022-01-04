@@ -16,20 +16,69 @@
 
 Technical Answers to Real World Problems- Project on ALMS-creating a brighter tomorrow
 
+
+
+
+
 Contents
+
+
+
+
+
 Hardware components and working
+
+
+
+
+
+
+
 Software requirements
+
+
+
+
+
+
+
 How to implement the code
+
+
+
+
+
+
+
 Contribution
+
+
+
+
+
+
+
 
 1. Hardware components and working
 ELEMENTS USED IN THE CIRCUIT PREPARATION. i)LM358 op-Amp :- Wide supply ranges, low supply current drain, supply voltage independence, and a large unity gain bandwidth are among these qualities.
 
+
+
+
 ii)5V relay:- We utilised a +5V DC supply to one end of the coil and a switch to ground the other end because the relay has a 5V trigger voltage.33 k ohm , 68 k ohm, 100 k ohm, 560 ohm, 220 ohm
+
+
+
 
 iii)2n22 transistor:- A transistor is a semiconductor device that can conduct as well as insulate electrical current or voltage. A transistor is a switch and an amplifier in one.
 
+
+
+
 iv)10K potentiometer:- When a potentiometer is connected in a circuit and the null point is reached, it draws no current. As a result, it determines the cell's e.m.f. A potentiometer can be used to accurately measure extremely small p.d. that a voltmeter cannot measure. Using a very long wire and a very slight potential gradient, this can be accomplished.
+
+
+
 
 v) 1n4007 diode:- Diodes aid in the execution of digital logic. They're used to isolate signals from a power source.
 
@@ -44,9 +93,15 @@ x)Servo motor 5V:- A rotary actuator or linear actuator is a servo motor. It ena
 xi)9v or 5v power supply:- for the working of the circuit.
 
 2. Software requirements
+
+
+
 Platforms:Flutter,Android studio. Language:html,java,php,mysql. Database:Mysql
 
 3. How to implement the code
+
+
+
 Website
 
 Download and install xampp into your desktop 2.run the apache and MySQL methods in xampp
@@ -57,7 +112,17 @@ Download and install vscode
 In vscode install the plug-in named flutter
 Copy paste the flutter code that has been given in the files section and execute it.
 Download the .apk for mobile use
+
+
+
+
+
 A video link of both software and hardware has been shared for your understanding of their working along with explanation of why we have chosen the project and those materials for making up the project
+
+
+
+
+
 
 4. Contribution
  SAI SAHITHI KODAVATI
